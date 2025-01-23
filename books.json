@@ -1,0 +1,66 @@
+[
+    {
+        "entry_number": 1,
+        "title": "Pride and Prejudice",
+        "release_year": 1813,
+        "description": "A classic novel about the manners and matrimonial machinations among the British gentry in the early 19th century.",
+        "image": "images/pride_and_prejudice.jpg"
+    },
+    {
+        "entry_number": 2,
+        "title": "1984",
+        "release_year": 1949,
+        "description": "A dystopian social science fiction story that explores the dangers of totalitarianism and pervasive government surveillance.",
+        "image": "images/1984.jpg"
+    },
+    {
+        "entry_number": 3,
+        "title": "To Kill a Mockingbird",
+        "release_year": 1960,
+        "description": "Set in a small Southern town during the Great Depression, this novel tackles racial injustice and the moral growth of its young narrator.",
+        "image": "images/to_kill_a_mockingbird.jpg"
+    },
+    {
+        "entry_number": 4,
+        "title": "Moby Dick",
+        "release_year": 1851,
+        "description": "A sprawling maritime adventure that follows the obsessed Captain Ahab's pursuit of a legendary white whale.",
+        "image": "images/moby_dick.jpg"
+    },
+    {
+        "entry_number": 5,
+        "title": "The Great Gatsby",
+        "release_year": 1925,
+        "description": "A portrait of the Roaring Twenties that examines themes of wealth, love, and the elusive American Dream."
+    },
+    {
+        "entry_number": 6,
+        "title": "Fahrenheit 451",
+        "release_year": 1953,
+        "description": "A cautionary tale about a future society where books are outlawed and firemen burn any they find."
+    },
+    {
+        "entry_number": 7,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "release_year": 1954,
+        "description": "The first part of a sweeping epic in which a band of heroes sets out to destroy an ancient and powerful ring."
+    },
+    {
+        "entry_number": 8,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "release_year": 1979,
+        "description": "A comedic science fiction novel that follows an unwitting human's intergalactic adventure after Earth's destruction."
+    },
+    {
+        "entry_number": 9,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "release_year": 1997,
+        "description": "A young boy discovers he is a wizard and begins his first year at a magical school, uncovering hidden secrets."
+    },
+    {
+        "entry_number": 10,
+        "title": "War and Peace",
+        "release_year": 1869,
+        "description": "A vast historical novel intertwining the lives of Russian aristocrats with the Napoleonic Wars of the early 19th century."
+    }
+]
